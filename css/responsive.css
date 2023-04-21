@@ -1,0 +1,113 @@
+@media only screen and (max-width: 1280px) {
+    .card-box h1 {
+        font-size: 45px !important;
+    }
+    h1 {
+        font-size: 35px !important;
+    }
+    h3 {
+        font-size: 23px !important;
+    }
+    h2 {
+        font-size: 27px !important;
+    }
+    h5 {
+        font-size: 20px !important;
+    }
+    p {
+        font-size: 15px !important;
+    }
+    #contact h4 {
+        font-size: 18px !important;
+    }
+    .my-btn {
+        padding-top: 2% !important;
+        padding-bottom: 2% !important;
+    }
+    #contact .my-btn {
+        padding-top: 1% !important;
+        padding-bottom: 1% !important;
+    }
+    .contact-box {
+        height: 405px;
+    }
+        .service-box {
+            height: 260px;
+        }
+}
+@media only screen and (max-width: 1024px) {
+    .service-box {
+        height: 270px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .navbar-brand {
+        width: 30%;
+    }
+    .logo1 {
+        width: 100%;
+    }
+        .card-box h1 {
+            font-size: 35px !important;
+        }
+    
+        h1 {
+            font-size: 30px !important;
+        }
+    
+        h3 {
+            font-size: 18px !important;
+        }
+    
+        h2 {
+            font-size: 24px !important;
+        }
+    
+        h5 {
+            font-size: 17px !important;
+        }
+        h6 {
+            font-size: 15px !important;
+        }
+    
+        p {
+            font-size: 13px !important;
+        }
+    
+        #contact h4 {
+            font-size: 15px !important;
+        }
+    
+        .my-btn {
+            padding-top: 2% !important;
+            padding-bottom: 2% !important;
+        }
+    
+        #contact .my-btn {
+            padding-top: 1% !important;
+            padding-bottom: 1% !important;
+        }
+    
+        .contact-box {
+            height: 400px;
+            padding-left: 8% !important;
+            padding-right: 2% !important;
+        }
+        a {
+            font-size: 14px !important;
+        }
+}
+@media only screen and (max-width: 767px) {
+    .navbar-brand {
+        width: 45%;
+    }
+    .logo1 {
+        width: 100%;
+    }
+    .service-box {
+        height: fit-content !important;
+    }
+    .contact-form {
+        padding: 5% 6% !important;
+    }
+}
